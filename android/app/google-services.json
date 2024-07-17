@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "287557824096",
+    "firebase_url": "https://fbfrutasmarcos-default-rtdb.firebaseio.com",
+    "project_id": "fbfrutasmarcos",
+    "storage_bucket": "fbfrutasmarcos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287557824096:android:c0110f2e52e7541300dd05",
+        "android_client_info": {
+          "package_name": "com.example.controle_vendas_frutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-mHUOxsJKJK-J-0OdKvX8HQobqDMyZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
